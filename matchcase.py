@@ -27,5 +27,4 @@ match value:
         print("A float")
     case list:
         print("A list")
-    case _:
-        print("unknown type")
+    
