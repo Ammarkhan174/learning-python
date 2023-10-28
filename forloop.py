@@ -64,9 +64,10 @@
 # if n>=1:
 #     for i in range 
 
-names = ["sahil", "sameer", "adil", "sohail", "john"]
-for i in names:
-    if i [0]=="s":
-        print(i)
+# names = ["sahil", "sameer", "adil", "sohail", "john"]
+# for i in names:
+#     if i [0]=="s":
+#         print(i)
+
 
         
